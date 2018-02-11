@@ -1,0 +1,24 @@
+{
+    "name": "servicediscovery",
+    "version": "1.0.0",
+    "description": "Ethereum Service Discovery",
+    "main": "",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://qrao@bitbucket.org/cssol-tech/servicediscovery.git"
+    },
+    "author": "Charlie Rao",
+    "license": "MIT",
+    "homepage": "https://bitbucket.org/cssol-tech/servicediscovery#readme",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "lodash": "^4.17.4",
+        "zeppelin-solidity": "^1.6.0"
+    }
+}
