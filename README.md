@@ -34,7 +34,7 @@ This registry has the following features:
 - [Cost Analysis On Rinkeby](#cost-analysis-on-rinkeby)
   - [Gas Usage Using Truffle Migrate](#gas-usage-using-truffle-migrate)
   - [Gas Usage Using Solc Compiler With Optimization](#gas-usage-using-solc-compiler-with-optimization)
-  - [Donations](#donations)
+- [Donations](#donations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -156,7 +156,7 @@ code stats that are hidden by Truffle.
 | ServiceRegistryLocator | 257,306 | https://rinkeby.etherscan.io/tx/0x8c4d1cabe4677863a4f86e58796dda76b801d93750127cb319ecaeb3c8006b33 |
 | ServiceRegistry | 4,168,901 | https://rinkeby.etherscan.io/tx/0x001285d84739bcef76f2e31850676f574b5b3cf7613b7841b763d82a15c843c9 |
 
-### Donations ###
+## Donations ##
 
 If you find the code in here useful, please consider donating to:
 
